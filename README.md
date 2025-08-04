@@ -1,2 +1,2 @@
-# Taitaja-Tehtavat
+# Lue täältä ensin!
 Erilaisia ohjelmointi tehtäviä
